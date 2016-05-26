@@ -4,11 +4,11 @@ name: Babylonianb Magick
 description: 
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: http://
+url: http://anpuluv.github.io/babylon
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
-baseurl: 'http://anpuluv.github.io/babylon'
+baseurl: '/anpuluv.github.io/babylon'
 
 share:
   facebook: true
