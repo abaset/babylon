@@ -8,7 +8,7 @@ url: http://anpuluv.github.io/babylon
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
-baseurl: 'http://anpuluv.github.io/babylon'
+/project-name: 'babylon' 
 
 share:
   facebook: true
