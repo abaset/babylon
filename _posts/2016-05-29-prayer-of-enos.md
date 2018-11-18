@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title: The Prayer of Enos
 ---
-
+<p><p>
 (Taught by Eva to Ryan Terry)
 <p><p>
 "Oluwa Ori the Fountain of true wisdom, thou that openest the secrets thy own self unto man, thou knowest mine imperfection and my inward darknesse : How can I (therefore) speak unto them that speak not after the voice of man ; or worthily call on thy name, considering that my imagination is variable and fruitlesse, and unknown to my self ? Shall the Sands seem to invite the Mountains : or can the small Rivers entertain the wonderful and unknown waves ? Can the vessel of fear, fragility, or that is of a determined proportion, lift up himself, heave up his hands, or gather the Sun into his bosom ?
